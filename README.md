@@ -1,7 +1,7 @@
-# Pantanal 🌌
+# Descobrindo o Pantanal: A Jóia Selvagem do Brasil 🌌
 
 ## 📒 Descrição
-Este e-book apresenta informações sobre o Pantanal, como sua vegetação, seus animais e projeções sobre o futuro do bioma.
+Este e-book apresenta informações sobre o Pantanal, como sua vegetação, seus animais e projeções sobre o futuro do bioma, utilizando uma linguagem informal, para envolver ainda mais os leitores.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para  pesquisa e roteirização;
