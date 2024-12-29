@@ -1,20 +1,20 @@
-# Manoel de Barros: O poeta do Pantanal 🌌
+# Pantanal 🌌
 
 ## 📒 Descrição
-Este e-book conta a história do poeta Manoel de Barros e apresenta as principais obras do autor em sua vivências pelo Pantanal brasileiro.
+Este e-book apresenta informações sobre o Pantanal, como sua vegetação, seus animais e projeções sobre o futuro do bioma.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para  pesquisa e roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para artes visuais relacionadas as obras do autor;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para artes visuais relacionadas a natureza do Pantanal;
 - Ferramenta **Word** para edição.
 
 ## 🧐 Processo de Criação
-Foi utilizado o "ChatGPT" para pesquisa sobre a história e obras do poeta Manoel de Barros, gerando o conteúdo do e-book. As principais obras, conforme informações fornecidas pelo "ChatGPT" deram base para a criação de imagens pelo "Leonardo AI" que contribuem para compreensão do cenário experenciado pelo poeta. Para concluir, a montagem final foi feita no Word com a edição do texto.
+Foi utilizado o "ChatGPT" para pesquisa sobre o biomna. A fauna e flora, conforme informações fornecidas pelo "ChatGPT" deram base para a criação de imagens pelo "Leonardo AI" que contribuem para compreensão do cenário. Para concluir, a montagem final foi feita no Word com a edição do texto.
 
 ## 🚀 Resultados
-O e-book apresenta a história e principais obras do poeta Manoel de Barros, apresentando imagens relacionadas as poesias que contribuem para o leitor visualizar o que o autor descrevia em suas obras
+O e-book apresenta uma visão geral do bioma Pantanal e as projeções para o futuro da maior planície alagada do mundo, com imagens que descrevem a fauna, flora e vegetação natural.
 
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão
-Criar imagens relacionando as poesias escritas engrandecem a leitura, ao nos fazer visualisar e imaginar o que o autor experimentava pessoalmente.
+Com ajuda da inteligência artificial, podemos relatar a situação atual do bioma como também demonstrar como será o futuro do Pantanal, caso não sejam adotadas medidas de prevenção às mudanças climáticas.
