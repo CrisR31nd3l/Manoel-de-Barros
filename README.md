@@ -9,7 +9,7 @@ Este e-book apresenta informações sobre o Pantanal, como sua vegetação, seus
 - Ferramenta **Word** para edição.
 
 ## 🧐 Processo de Criação
-Foi utilizado o "ChatGPT" para pesquisa sobre o biomna. A fauna e flora, conforme informações fornecidas pelo "ChatGPT" deram base para a criação de imagens pelo "Leonardo AI" e "Bing Images" que contribuem para compreensão do cenário. Para concluir, a montagem final foi feita no Word com a edição do texto.
+Foi utilizado o "ChatGPT" para pesquisa sobre o bioma. A fauna e flora, conforme informações fornecidas pelo "ChatGPT" deram base para a criação de imagens pelo "Leonardo AI" e "Bing Images" que contribuem para compreensão do cenário. Para concluir, a montagem final foi feita no Word com a edição do texto.
 
 ## 🚀 Resultados
 O e-book apresenta uma visão geral do bioma Pantanal e as projeções para o futuro da maior planície alagada do mundo, com imagens que descrevem a fauna, flora e vegetação natural.
