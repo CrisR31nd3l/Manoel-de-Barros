@@ -14,7 +14,7 @@ Foi utilizado o "ChatGPT" para pesquisa sobre o biomna. A fauna e flora, conform
 ## 🚀 Resultados
 O e-book apresenta uma visão geral do bioma Pantanal e as projeções para o futuro da maior planície alagada do mundo, com imagens que descrevem a fauna, flora e vegetação natural.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://acrobat.adobe.com/id/urn:aaid:sc:us:3bdf63a0-c4b4-4c73-84f5-9c9893df7c8a)
 
 ## 💭 Reflexão
 Com ajuda da inteligência artificial, podemos relatar a situação atual do bioma como também demonstrar como será o futuro do Pantanal, caso não sejam adotadas medidas de prevenção às mudanças climáticas.
